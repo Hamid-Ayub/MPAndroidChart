@@ -1,3 +1,12 @@
+#Latest AGP as of 28 May 2024
+* Gradle 8.4.1
+* CompileSDK 34
+* Minor Bugs resolved
+
+---
+#Original Source, Documentations & Credits as follows: 
+
+
 ![banner](https://raw.github.com/PhilJay/MPChart/master/design/feature_graphic_smaller.png)
 
 [![Release](https://img.shields.io/github/release/PhilJay/MPAndroidChart.svg?style=flat)](https://jitpack.io/#PhilJay/MPAndroidChart)
