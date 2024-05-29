@@ -1,7 +1,12 @@
+Updating this wonderful library to:
 #Latest AGP as of 28 May 2024
 * Gradle 8.4.1
 * CompileSDK 34
 * Minor Bugs resolved
+
+
+If this cause compilation error due to android studio compatibility issue, 
+just change AGP to 8.2.2
 
 ---
 #Original Source, Documentations & Credits as follows: 
